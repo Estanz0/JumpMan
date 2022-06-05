@@ -1,2 +1,2 @@
 # JumpMan
-Jumping game 
+Like Doodle Jump
